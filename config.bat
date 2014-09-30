@@ -1,0 +1,1 @@
+pyi-makespec --icon=icon.ico --onefile --noconsole --name=registerengine registerengine\__init__.py
